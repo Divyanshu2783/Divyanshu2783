@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Divyanshu2783
-- 👀 I’m interested in Travelling
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8726383565
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Divyanshu Pandey
 
-<!---
-Divyanshu2783/Divyanshu2783 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about JavaScript, React, Node.js, and Flask
+- 📫 How to reach me: [panditdivyanshu522@gmail.com]
+- ⚡ Fun fact: I love traveling and exploring new technologies!
+
